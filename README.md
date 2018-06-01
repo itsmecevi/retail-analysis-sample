@@ -63,4 +63,7 @@ This analysis contains 4 entity (table) and every table has to attribute.
 * Sum_Regular_Sales_Units	
 * Sum_Markdown_Sales_Units
 
+Let's make the data model from the 4 entity. Just drag every Primary Key of the entity in power pivot or power bi data model
+
+
 
