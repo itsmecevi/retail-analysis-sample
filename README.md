@@ -69,16 +69,18 @@ This analysis contains 4 entity (table) and every table has to attribute.
 
 ### After that, create [a measure in power bi or power pivot](https://docs.microsoft.com/en-us/power-bi/desktop-tutorial-create-measures)
 
-Below are the measure of every graphic,
+Below are the measure of every graph,
 
 Note! we use the format of table and attribut with in [DAX language](https://docs.microsoft.com/en-us/power-bi/desktop-quickstart-learn-dax-basics) 
 
 Extras: [Quick Guide DAX](https://support.office.com/en-us/article/quickstart-learn-dax-basics-in-30-minutes-51744643-c2a5-436a-bdf6-c895762bec1a?omkt=en-US&ui=en-US&rs=en-US&ad=US)
 
 ---------------------------------------------------------------------------
-* This Year Sales by Chance:
+Drag this entity for every graph
 
-Drag this entity:
+* This Year Sales by Chance graph:
+
+
 
 1. (Store)[Chain] 
 
@@ -86,7 +88,7 @@ Drag this entity:
 
 DAX -> TotalSalesTY = CALCULATE([TotalSales], Sales[ScenarioID]=1)
 
-* New Stores
+* New Stores graph: 
 
 
 
