@@ -8,23 +8,23 @@ This analysis contains 4 entity (table) and every table has to attribute.
 1. store:
 * LocationID
 * City Name	
-Territory	
-PostalCode	
-OpenDate	
-SellingAreaSize	
-DistrictName	
-Name	
-StoreNumberName	
-StoreNumber	
-City	
-Chain	
-DM	
-DM_Pic	
-DistrictID	
-Open Month No	
-Open Month	
-Open Year	
-Store Type
+* Territory	
+* PostalCode	
+* OpenDate	
+* SellingAreaSize	
+* DistrictName	
+* Name	
+* StoreNumberName	
+* StoreNumber	
+* City	
+* Chain	
+* DM	
+* DM_Pic	
+* DistrictID	
+* Open Month No	
+* Open Month	
+* Open Year	
+* Store Type
 
 2. 
 
