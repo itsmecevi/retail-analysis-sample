@@ -85,8 +85,8 @@ Drag this entity:
 2. (Sales)[This Year Sales] := [TotalSalesTY]
 
 DAX -> TotalSalesTY = CALCULATE([TotalSales], Sales[ScenarioID]=1)
----------------------------------------------------------------------------
 
+* New Stores
 
 
 
