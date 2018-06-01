@@ -34,4 +34,11 @@ This analysis contains 4 entity (table) and every table has to attribute.
 * Buyer	
 * FamilyNane
 
+3. time
+* ReportingPeriodID	
+* Period	
+* FiscalYear	
+* FiscalMonth	
+* Month
+
 
