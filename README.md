@@ -41,4 +41,12 @@ This analysis contains 4 entity (table) and every table has to attribute.
 * FiscalMonth	
 * Month
 
+4. district
+* District	
+* DM	
+* DM_Pic_fl	DM_Pic	
+* BusinessUnitID	
+* DMImage
+
+
 
