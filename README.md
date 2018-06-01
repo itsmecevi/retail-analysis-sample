@@ -67,6 +67,12 @@ This analysis contains 4 entity (table) and every table has to attribute.
 ### Let's make the data model from the 4 entity. Just drag every Primary Key of the entity in power pivot or power bi data model
 ![retail analysis sample data model](https://user-images.githubusercontent.com/27078712/40864635-e6a6188e-65f4-11e8-8d18-22021f05a6d5.PNG)
 
+### After that, create [a measure in power bi or power pivot](https://docs.microsoft.com/en-us/power-bi/desktop-tutorial-create-measures)
+
+Below are the measure of every graphic
+
+
+
 
 
 
