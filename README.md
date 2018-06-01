@@ -6,9 +6,9 @@ https://docs.microsoft.com/en-us/power-bi/sample-retail-analysis from http://obv
 This analysis contains 4 entity (table) and every table has to attribute.
 
 1. store:
-LocationID
+*LocationID
 
-City Name	
+*City Name	
 Territory	
 PostalCode	
 OpenDate	
