@@ -27,5 +27,11 @@ This analysis contains 4 entity (table) and every table has to attribute.
 * Open Year	
 * Store Type
 
-2. 
+2. item
+* ItemID	
+* Segment	
+* Category	
+* Buyer	
+* FamilyNane
+
 
