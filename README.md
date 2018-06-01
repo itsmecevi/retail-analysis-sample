@@ -89,6 +89,9 @@ Drag this entity for every graph
 DAX -> TotalSalesTY = CALCULATE([TotalSales], Sales[ScenarioID]=1)
 
 * New Stores graph: 
+.
+.
+.coming soon
 
 
 
