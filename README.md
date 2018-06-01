@@ -4,6 +4,9 @@ This is a Doku for retail analysis sample with Power BI.
 Source: 
 https://docs.microsoft.com/en-us/power-bi/sample-retail-analysis from http://obvience.com/
 
+Before going further, we need understand the concept of the data model, please read the link below:
+https://en.wikipedia.org/wiki/Data_model
+
 This analysis contains 4 entity (table) and every table has to attribute.
 
 1. store:
@@ -48,5 +51,16 @@ This analysis contains 4 entity (table) and every table has to attribute.
 * BusinessUnitID	
 * DMImage
 
+5. sales fact
+* MonthID	
+* ItemID	
+* LocationID	
+* Sum_GrossMarginAmount	
+* Sum_Regular_Sales_Dollars	
+* Sum_Markdown_Sales_Dollars	
+* ScenarioID	
+* ReportingPeriodID	
+* Sum_Regular_Sales_Units	
+* Sum_Markdown_Sales_Units
 
 
