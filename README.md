@@ -7,7 +7,6 @@ This analysis contains 4 entity (table) and every table has to attribute.
 
 1. store:
 * LocationID
-
 * City Name	
 Territory	
 PostalCode	
